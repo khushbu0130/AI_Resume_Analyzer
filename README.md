@@ -20,6 +20,9 @@ A web-based application that uses Natural Language Processing and Machine Learni
 
 
 ![image alt](https://github.com/khushbu0130/AI_Resume_Analyzer/blob/23db62ad82f37e2e48961532986086c35a00cc66/screenshots/user/5-courses.jpg)
+
+
+![image alt](https://github.com/khushbu0130/AI_Resume_Analyzer/blob/f4c0a2a38958391dc28107958d850940c54b0d6b/screenshots/user/6-resume-tips%20and%20ideas.jpg)
 ## Features 🤦‍♂️
 ### Client: -
 - Fetching Location and Miscellaneous Data
