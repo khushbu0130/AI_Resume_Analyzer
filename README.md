@@ -3,7 +3,7 @@ A web-based application that uses Natural Language Processing and Machine Learni
 
 
 
-![image alt](https://github.com/khushbu0130/AI_Resume_Analyzer/blob/60760d6a97b171d4197a3ee5810de351c5bf0daa/screenshots/Resume.jpg)
+![image alt](https://github.com/khushbu0130/AI_Resume_Analyzer/blob/c1b437756a5ec213a4775d116ecd86e301267da0/screenshots/user/1-main-screen.jpg)
 
 
 
