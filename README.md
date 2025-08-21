@@ -1,6 +1,13 @@
 # AI-Resume-Analyzer
 A web-based application that uses Natural Language Processing and Machine Learning to analyze resumes and provide feedback on formatting, skills, and keyword optimization. It evaluates resume content against specific job descriptions and offers actionable suggestions to improve visibility in (ATS). Developed using Python, Streamlit, and spaCy.
 
+
+
+[image alt](https://github.com/khushbu0130/AI_Resume_Analyzer/blob/60760d6a97b171d4197a3ee5810de351c5bf0daa/screenshots/Resume.jpg)
+
+
+
+[image alt]()
 ## Features 🤦‍♂️
 ### Client: -
 - Fetching Location and Miscellaneous Data
