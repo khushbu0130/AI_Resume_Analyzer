@@ -14,6 +14,9 @@ A web-based application that uses Natural Language Processing and Machine Learni
 
 
 ![image alt](https://github.com/khushbu0130/AI_Resume_Analyzer/blob/5d5b935b02b269669286f6a0cc2ca571eb485672/screenshots/user/3-recc.png.jpg)
+
+
+![image alt](https://github.com/khushbu0130/AI_Resume_Analyzer/blob/3102f701ed8c996b4519104b58a386df54f45b67/screenshots/user/4-recc-skills.jpg)
 ## Features 🤦‍♂️
 ### Client: -
 - Fetching Location and Miscellaneous Data
