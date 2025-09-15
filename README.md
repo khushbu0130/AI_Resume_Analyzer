@@ -33,7 +33,7 @@ A web-based application that uses Natural Language Processing and Machine Learni
 
 
 
-## Features 🤦‍♂️
+## Features 
 ### Client: -
 - Fetching Location and Miscellaneous Data
 
